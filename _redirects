@@ -1,0 +1,2 @@
+# SPA fallback for the /app/ workspace (login + note editor)
+/app/*  /app/index.html  200
