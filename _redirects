@@ -1,2 +1,2 @@
-# SPA fallback for the /app/ workspace (login + note editor)
-/app/*  /app/index.html  200
+# Workers serves /app/ from the existing /app/index.html directory index.
+# Do not add a wildcard rewrite here; it also matches /app/index.html and loops.
