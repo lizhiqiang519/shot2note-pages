@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /client/
+Disallow: /dev-api/
+Sitemap: https://shot2note.com/sitemap.xml
